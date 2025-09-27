@@ -50,11 +50,12 @@ This project explores hourly, daily, and seasonal trends to identify high-value 
 
 ---
 
-## 📈 Dashboard Highlights  
+## 📈 Dashboard Highlights   
 
 - KPIs over time (Revenue, Profit, Riders)  
 - Revenue by Season  
 - Rider Demographics (Registered vs. Casual)  
 - Hourly and Daily Sales Profitability Patterns  
+<img width="709" height="400" alt="Screenshot 2025-09-26 054706" src="https://github.com/user-attachments/assets/b49b0e3f-588b-4185-b133-6b0ed463f820" />
 
 ---
