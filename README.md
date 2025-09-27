@@ -13,15 +13,6 @@ This project explores hourly, daily, and seasonal trends to identify high-value 
 
 ---
 
-## 🗂 Data Sources  
-
-- Hourly and daily sales data (2021–2022)  
-- Rider demographics (registered vs. casual)  
-- Seasonal revenue breakdown  
-- KPI trends (Revenue, Profit, Riders)  
-
----
-
 ## 🛠 Tools & Technologies  
 
 - **Power BI** – Dashboard development, interactive visualizations  
@@ -41,12 +32,24 @@ This project explores hourly, daily, and seasonal trends to identify high-value 
 
 ---
 
-## 🚀 Recommendations  
+## 🚀 Strategic Recommendations
 
-- Introduce **dynamic pricing** by time and day (premium rates at peak, discounts off-peak)  
-- Launch **off-season loyalty incentives** to smooth seasonal dips  
-- Increase **capacity and promotions during peak hours**  
-- Develop **targeted offers for registered riders** to boost retention and upsell  
+- **Targeted Price Adjustment**
+Given the substantial increase in 2022, the optimal path forward is a measured price adjustment to avoid surpassing the demand ceiling. Testing a 10–15% price increase balances revenue growth with retention risk:
+
+10% increase → Price moves from $4.99 to approximately $5.49
+
+15% increase → Price moves from $4.99 to approximately $5.74
+- **Market Intelligence Before Execution**
+Conduct structured market research to assess customer price sensitivity, competitive pricing trends, and macroeconomic conditions. This will determine whether a 10% or 15% increase is more appropriate for your specific market segments.
+- **Segmented Pricing Strategy**
+Differentiate pricing for casual versus registered riders. Registered riders represent a more loyal base and could be offered subscription or loyalty-based discounts, while casual riders may absorb slightly higher rates. This maximizes revenue without alienating your core customers.
+
+- **Iterative Testing & Monitoring**
+Roll out the new pricing in phases and closely track key performance metrics — customer churn, revenue per rider, and overall demand elasticity. Use these data signals to fine-tune the price point rather than committing fully upfront.
+
+- **Dynamic Optimization**
+Develop an adaptive pricing framework that incorporates hourly, daily, and seasonal demand patterns already identified in the dashboard analysis. This allows you to charge premium rates at peak times while maintaining accessibility during off-peak periods.
 
 ---
 
